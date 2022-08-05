@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class App {
+public class AppNumGuess {
     static int tar=Integer.MAX_VALUE;
     public static void main(String[] args) throws Exception {
         Scanner sc=new Scanner(System.in);
